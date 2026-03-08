@@ -16,6 +16,7 @@ As far as I can tell it's safe to use. All builds that existed will still exist 
 
 ## How to use it?
 As a word of warning: Project ran as is with no alterations will add a build with randomized items as Victor's currently chosen build. It's not dangerous, just unexpected.
+
 If you look into Program.cs you will see (with lots of comments that mention such things as alternative ways to deal with xyz) an example of how to use this repository in the form of a randomizer.
 
 Generally if you want to use this project, there are three ways:
