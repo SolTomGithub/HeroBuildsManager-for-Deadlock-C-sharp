@@ -9,7 +9,7 @@ Since the prototype stage everything I could think of was abstracted away to mak
 * Many features that make the process of making a build easier, such as having a mapping of heroes and items to their internal names and ids.
 * Can set the currently used build, meaning the user will have it set right as they open the game.(given that they have the relevant character chosen by the last time they closed the game, otherwise they will see it once they switch to that character)
 * Randomizer included as an example.
-* I suspect it might be possible to set an online build as the currently chosen build as long as you have it's Id, but I didn't try myself because I'm simply not interested. It might possibly be used with the API to fetch current top builds and assign them to all characters if it works like this.
+* I suspect it might be possible to set an online build as the currently chosen build as long as you have it's Id, but I didn't try myself because I'm simply not interested. It might be used with the API to fetch current top builds and assign them to all characters if it works like this.
 
 ## Safety
 As far as I can tell it's safe to use. All builds that existed will still exist in the most common usecases unless the user explicitly decides to purge or overwrite them.
