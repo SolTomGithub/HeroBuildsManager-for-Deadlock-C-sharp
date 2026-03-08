@@ -33,5 +33,7 @@ First and foremost the packages I've used that made it possible at all:
 
 If you want to credit me in any way wherever, thanks a lot. I do not require it, but it is very nice.
 I'm doing [Youtube](https://www.youtube.com/@SolTomYT) and [streaming](https://www.twitch.tv/soltomtwitch) sometimes so having any kind of additional mentions anywhere is nice.(not that I'm doing anything content-wise with this repo, it's just another small project)
-Email for contact: SolTomBusinessMail@proton.me
-Discord I'm always at unless I died: https://discord.com/invite/6aNNqFCdft
+
+Contact:
+* Email for contact: SolTomBusinessMail@proton.me
+* Discord I'm always at unless I died: https://discord.com/invite/6aNNqFCdft
