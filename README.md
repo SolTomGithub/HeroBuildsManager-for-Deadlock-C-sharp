@@ -27,6 +27,7 @@ Generally if you want to use this project, there are three ways:
 First and foremost the packages I've used that made it possible at all:
 * SteamKit2(3.4.0)
 * ValveResourceFormat(18.0.5805)
+* [Deadlock API](https://deadlock-api.com/) for making the [data about items](https://assets.deadlock-api.com/scalar#tag/items/GET/v2/items) easily accessible
 
 If you want to credit me in any way wherever, thanks a lot. I do not require it, but it is very nice.
 I'm doing [Youtube](https://www.youtube.com/@SolTomYT) and [streaming](https://www.twitch.tv/soltomtwitch) sometimes so having any kind of additional mentions anywhere is nice.(not that I'm doing anything content-wise with this repo, it's just another small project)
